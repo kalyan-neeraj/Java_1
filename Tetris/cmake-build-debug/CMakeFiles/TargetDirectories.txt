@@ -1,0 +1,3 @@
+C:/Users/kalya/Desktop/Tetris/cmake-build-debug/CMakeFiles/Tetris.dir
+C:/Users/kalya/Desktop/Tetris/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kalya/Desktop/Tetris/cmake-build-debug/CMakeFiles/rebuild_cache.dir
